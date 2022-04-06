@@ -16,7 +16,7 @@ Di pertemukan kali ini mari kita membahas tentang pengenalan javascipt
 
 **PENJELASAN**
 Menambahkan penampilan pengenalan javascript dasar
-
+---------------------------------------------------------
 # JavaScript Dasar
 
 ## 2) Pemakaian alert sebagai property window
