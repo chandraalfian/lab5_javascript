@@ -21,7 +21,7 @@ Menambahkan penampilan pengenalan javascript dasar
 
 # JavaScript Dasar
 
-## 1a) Pemakaian alert sebagai property window
+## 1) Pemakaian alert sebagai property window
 
 ## CONTOH TAMPILANNYA
 ![Alert_property_window](img/alert%20windows.png)
