@@ -17,7 +17,7 @@ Di pertemukan kali ini mari kita membahas tentang pengenalan javascipt
 **PENJELASAN**
 Menambahkan penampilan pengenalan javascript dasar
 
-**_______________________________________________________________________________________________________________**
+**_________________________________________________________________________________________________________________________________**
 
 # JavaScript Dasar
 
