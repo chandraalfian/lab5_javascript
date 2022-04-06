@@ -26,3 +26,14 @@ Menambahkan penampilan pengenalan javascript dasar
 ## CONTOH TAMPILANNYA
 ![Alert_property_window](img/alert%20windows.png)
 
+**PENJELASAN**
+Menambahkan Alert sebagai poperty window
+
+## 2) Pemakaian method dalam objek
+
+## CONTOH TAMPILANNYA
+![Method](img/method.png)
+
+**PENJELASAN**
+Menambahkan Method dalam JavaScript
+
